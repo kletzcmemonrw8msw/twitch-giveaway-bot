@@ -1,2 +1,1 @@
-# twitch-giveaway-bot
-twitch giveaway bot
+See repository documentation.

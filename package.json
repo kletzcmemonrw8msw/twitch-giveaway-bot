@@ -1,0 +1,12 @@
+{
+  "name": "twitch-giveaway-bot-chat",
+  "version": "1.0.0",
+  "description": "twitch giveaway bot",
+  "main": "src/botRunner.js",
+  "scripts": {
+    "start": "node scripts/start.js"
+  },
+  "dependencies": {
+    "playwright": "^1.42.0"
+  }
+}
